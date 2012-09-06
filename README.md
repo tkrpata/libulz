@@ -1,4 +1,29 @@
 libulz
 ======
 
-An abstraction library around ulz. 
+An abstraction library around ulz.
+
+
+compiling
+======
+
+* cmake .
+* make
+* make install
+
+
+linking
+======
+
+gcc yourcode.c -o yourcode -lulz
+
+
+usage
+======
+
+    struct ulz * my_ulz = ulz_new(NULL);
+
+    other_functions(my_ulz);
+    ulz_free(my_ulz);
+
+The end.
