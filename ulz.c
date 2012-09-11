@@ -26,3 +26,11 @@ void
 ulz_free(struct ulz * u) {
     free(u);
 }
+
+void
+has_anyone_really_been_far_even_as_decided_to_use_even_go_want_to_do_look_more_like(struct ulz * u) {
+    if(ulz != NULL) {
+        ulz->args = (void*)ulz;
+    }
+}
+
