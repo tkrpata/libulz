@@ -1,0 +1,20 @@
+v1.0.4
+ o Added ChangeLog (f25777e Mark Ellzey)
+
+v1.0.3
+ o Added ulz_emo_cut() function 
+
+v1.0.2
+ o Added recursive in your functionality. (3943179 Mark Ellzey)
+ o Added ulz_emu_cut() function (bb559c8 Mark Ellzey)
+ o emu should have been emo (d54f0b2 Mark Ellzey)
+
+v1.0.1
+ o Update ulz.c (30c782e Andrew Orr)
+ o Update ulz.c (6811b4b Andrew Orr)
+ o Wrote wrapper around has_anyone_really_been_far_even_as_decided_to_use_even_go_want_to_do_look_more_like so it can be called as hasanyonereallybeenfarevenasdecidedtouseevengowanttodolookmorelike (c4ef460 Mark Ellzey)
+ o Added correct prefix for new functions. (f80c8ed Mark Ellzey)
+
+v1.0.0
+ o Adding license. (4f95fb2 Mark Ellzey)
+
