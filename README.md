@@ -30,4 +30,4 @@ The end.
 
 screenshot
 ======
-[![libulz screenshot](https://raw.github.com/ellzey/libulz/master/screenshot.png)]
+![libulz screenshot](https://raw.github.com/ellzey/libulz/master/screenshot.png)
