@@ -27,3 +27,7 @@ usage
     ulz_free(my_ulz);
 
 The end.
+
+screenshot
+======
+[![libulz screenshot](https://raw.github.com/ellzey/libulz/master/screenshot.png)]
