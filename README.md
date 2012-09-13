@@ -31,4 +31,7 @@ The end.
 screenshot
 ======
 ![libulz screenshot](https://raw.github.com/ellzey/libulz/master/screenshot.png)
+
+screenshot of the screenshot
+======
 ![libulz screenshotscreenshot](https://raw.github.com/ellzey/libulz/master/screenshotscreenshot.png)
