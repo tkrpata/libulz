@@ -14,7 +14,7 @@ ulz_new(void * args) {
     struct ulz * n;
 
     if (!(n = malloc(sizeof(struct ulz)))) {
-	return NULL;
+        return NULL;
     }
 
     n->args = args;
@@ -29,7 +29,7 @@ ulz_free(struct ulz * u) {
 
 void
 has_anyone_really_been_far_even_as_decided_to_use_even_go_want_to_do_look_more_like(struct ulz * u) {
-    if(u != NULL) {
+    if (u != NULL) {
         u->args = (void*)u;
     }
 }
