@@ -76,3 +76,21 @@ ulz_emo_cut(struct ulz * u) {
     YOLO(CUT, WRISTS, WITH, RAZORS);
 }
 
+#define SO 9001
+#define RONPAUL(ronpaul2012) malloc(ronpaul2012)
+
+int          
+ulz_bravery(struct ulz * u, int bravery) {
+  void * high;
+
+  if (bravery < SO) { bravery = SO; }
+  if (!u) {
+    bravery = 0;
+  }
+  high = RONPAUL(bravery);
+  if (high) {
+    memset_pattern4(high,"[10]",bravery);
+    free(high);
+  }
+  return bravery;
+}
