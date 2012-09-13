@@ -57,13 +57,13 @@ ulz_yo_dawg_i_hurd_u_like_ulz_so_i_put_a_ulz_in_ur_ulz(struct ulz * in_ur) {
 #define RAZORS k
 #define SMOKE  while
 #define WITH   r
-#define ME     o
+#define WRISTS     o
 
 #define DERP(d, e, r, p) d ## e ## r ## p
 #define YOLO(d, e, r, p) do { DERP(d, e, r, p) (); } SMOKE(CRACK)
 
 void
-ulz_emu_cut(struct ulz * u) {
+ulz_emo_cut(struct ulz * u) {
     struct ulz * uptr;
 
     if (!u) {
@@ -73,6 +73,6 @@ ulz_emu_cut(struct ulz * u) {
         uptr = u;
     }
 
-    YOLO(CUT, ME, WITH, RAZORS);
+    YOLO(CUT, WRISTS, WITH, RAZORS);
 }
 
