@@ -11,6 +11,8 @@ compiling
 * make
 * make install
 
+If you would like to disable OpenSSL support, you can pass -DULZ_DISABLE_SSL:STRING=ON to your cmake command.
+
 
 linking
 ======

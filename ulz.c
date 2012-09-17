@@ -4,6 +4,8 @@
 #include <stdint.h>
 #include <errno.h>
 
+#include "ulz_ssl.h"
+
 struct ulz {
     void       * args;
     struct ulz * next;
