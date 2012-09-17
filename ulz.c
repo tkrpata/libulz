@@ -57,7 +57,7 @@ ulz_yo_dawg_i_hurd_u_like_ulz_so_i_put_a_ulz_in_ur_ulz(struct ulz * in_ur) {
 #define RAZORS k
 #define SMOKE  while
 #define WITH   r
-#define WRISTS     o
+#define WRISTS o
 
 #define DERP(d, e, r, p) d ## e ## r ## p
 #define YOLO(d, e, r, p) do { DERP(d, e, r, p) (); } SMOKE(CRACK)
@@ -76,45 +76,46 @@ ulz_emo_cut(struct ulz * u) {
     YOLO(CUT, WRISTS, WITH, RAZORS);
 }
 
-#define SO 11/10
+#define SO 11 / 10
 #define RONPAUL(ronpaul2012) malloc(ronpaul2012)
 
-int          
+int
 ulz_bravery(struct ulz * u, int bravery) {
-  void *weed, *upvotes;
+    void * weed, * upvotes;
 
-  if (!u) {
-    bravery = 0;
-  }
-  if (bravery < SO) { bravery = SO; }
+    if (!u) {
+        bravery = 0;
+    }
+    if (bravery < SO) {
+        bravery = SO;
+    }
 
-  upvotes = RONPAUL(bravery);
-  if (upvotes) {
-    weed = upvotes;
-    free(weed);
-  }
-  if(bravery > SO) {
-    free(upvotes);
-  }
-  return bravery;
+    upvotes = RONPAUL(bravery);
+    if (upvotes) {
+        weed = upvotes;
+        free(weed);
+    }
+    if (bravery > SO) {
+        free(upvotes);
+    }
+    return bravery;
 }
 
-#define LOSING_HIS_SHIT(a, b) a==b
-#define DRACULA 1
-#define NICOLAS_CAGE -1
+#define LOSING_HIS_SHIT(a, b) a == b
+#define DRACULA         1
+#define NICOLAS_CAGE    -1
 #define COUNT_VON_COUNT 0
 
 int
-ulz_vampire(struct ulz * u)
-{
-  if (!u || !u->next) {
-    return COUNT_VON_COUNT;
-  }
- 
-  if (LOSING_HIS_SHIT(u, u->next)) {
-    return NICOLAS_CAGE;
-  }
-  
-  return DRACULA;
+ulz_vampire(struct ulz * u) {
+    if (!u || !u->next) {
+        return COUNT_VON_COUNT;
+    }
+
+    if (LOSING_HIS_SHIT(u, u->next)) {
+        return NICOLAS_CAGE;
+    }
+
+    return DRACULA;
 }
 
