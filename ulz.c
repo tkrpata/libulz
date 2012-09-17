@@ -121,3 +121,8 @@ ulz_vampire(struct ulz * u) {
     return DRACULA;
 }
 
+void
+ulz_flush(struct ulz * u) {
+    fflush(stdout);
+}
+
