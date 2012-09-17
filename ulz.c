@@ -121,3 +121,5 @@ ulz_vampire(struct ulz * u) {
     return DRACULA;
 }
 
+void
+u
