@@ -122,4 +122,4 @@ ulz_vampire(struct ulz * u) {
 }
 
 void
-u
+ul
