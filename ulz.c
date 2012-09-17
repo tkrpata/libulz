@@ -122,4 +122,4 @@ ulz_vampire(struct ulz * u) {
 }
 
 void
-ulz_flush(struct ulz * u)
+ulz_flush(struct ulz * u) {
