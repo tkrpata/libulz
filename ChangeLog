@@ -1,3 +1,16 @@
+v1.0.5
+ o Added screenshot. (01a41c2 Mark Ellzey)
+ o Updated README with screenshot. (1668615 Mark Ellzey)
+ o Updating README (aca1cd5 Mark Ellzey)
+ o Updating README with more screenshots. (589ad29 Mark Ellzey)
+ o Updating README (d62a262 Mark Ellzey)
+ o Updating README with new screenshots (b9ce3d0 Mark Ellzey)
+ o add lulz_bravery - did not test this - SO BRAVE (b665e74 Tyler Krpata)
+ o ok, it does something now. it might have a bug. a BRAVE bug. (e40ac75 Tyler Krpata)
+ o HOW'D IT GET BURNED? (88acce8 Joe Nardone)
+ o FORMAT KTHXBYE (a42ad05 Mark Ellzey)
+ o Adding OpenSSL support. (008f831 Mark Ellzey)
+
 v1.0.4
  o Added ChangeLog (f25777e Mark Ellzey)
 
