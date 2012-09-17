@@ -98,3 +98,23 @@ ulz_bravery(struct ulz * u, int bravery) {
   }
   return bravery;
 }
+
+#define LOSING_HIS_SHIT(a, b) a==b
+#define DRACULA 1
+#define NICOLAS_CAGE -1
+#define COUNT_VON_COUNT 0
+
+int
+ulz_vampire(struct ulz * u)
+{
+  if (!u || !u->next) {
+    return COUNT_VON_COUNT;
+  }
+ 
+  if (LOSING_HIS_SHIT(u, u->next)) {
+    return NICOLAS_CAGE;
+  }
+  
+  return DRACULA;
+}
+
