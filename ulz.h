@@ -12,6 +12,7 @@ int          ulz_yo_dawg_i_hurd_u_like_ulz_so_i_put_a_ulz_in_ur_ulz(struct ulz *
 void         ulz_emo_cut(struct ulz * u);
 int          ulz_bravery(struct ulz * u, int level);
 int          ulz_vampire(struct ulz * u);
+void         ulz_ulysses(struct ulz * u);
 
 #endif
 
