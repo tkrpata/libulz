@@ -45,3 +45,13 @@ screenshot of the screenshot on my desktop where I put my screenshots
 photograph of me looking at the screenshot of the screenshot on my desktop where I put my screenshots
 ======
 ![libulz_gettingsometa](https://raw.github.com/ellzey/libulz/master/pictureofmelookingatthescreenshotofthescreenshotwhereiputmyscreenshot.jpg)
+
+photograph of jnardone looking at my photograph of me looking at the screenshot of the screenshot on my desktop where I put my screenshots
+======
+![libulz_jnardone](https://raw.github.com/ellzey/libulz/master/jnardone_screenshot.jpg)
+
+photograph of scox looking at jnardone looking at my photograph of me looking at the screenshot of the screenshot on my desktop where I put my screenshots
+======
+![libulz_scox](https://raw.github.com/ellzey/libulz/master/scox_jnardone_screenshot.jpg)
+
+
